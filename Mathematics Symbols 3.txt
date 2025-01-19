@@ -1,0 +1,161 @@
+Here’s an expanded and comprehensive list of common mathematical symbols across various fields to ensure you have as complete a reference as possible:
+
+---
+
+### **Basic Operations**
+- Addition: `+`
+- Subtraction: `-`
+- Multiplication: `×`, `·`, `*`
+- Division: `÷`, `/`
+- Equals: `=`
+- Not equal to: `≠`
+- Approximately equal to: `≈`
+- Proportional to: `∝`
+- Less than: `<`
+- Greater than: `>`
+- Less than or equal to: `≤`
+- Greater than or equal to: `≥`
+
+---
+
+### **Arithmetic & Number Theory**
+- Modulo: `mod`
+- Divides: `|`
+- Does not divide: `∤`
+- Integer part (floor): `⌊x⌋`
+- Fractional part (ceiling): `⌈x⌉`
+- GCD: `gcd(a, b)`
+- LCM: `lcm(a, b)`
+- Summation: `∑`
+- Product: `∏`
+- Exponentiation: `xⁿ`
+- Square root: `√`
+- Cube root: `∛`
+- nth root: `ⁿ√`
+- Logarithm: `log(x)`
+- Natural logarithm: `ln(x)`
+- Absolute value: `|x|`
+- Factorial: `n!`
+- Percent: `%`
+
+---
+
+### **Set Theory**
+- Set brackets: `{ }`
+- Element of: `∈`
+- Not an element of: `∉`
+- Subset: `⊆`
+- Proper subset: `⊂`
+- Superset: `⊇`
+- Proper superset: `⊃`
+- Empty set: `∅`
+- Union: `∪`
+- Intersection: `∩`
+- Complement: `A'` or `¯A`
+- Difference: `A \ B`
+- Cartesian product: `A × B`
+- Power set: `𝒫(A)`
+
+---
+
+### **Logic**
+- For all: `∀`
+- There exists: `∃`
+- Does not exist: `∄`
+- Negation: `¬`
+- Logical AND: `∧`
+- Logical OR: `∨`
+- Implies: `⇒`
+- If and only if (iff): `⇔`
+- Therefore: `∴`
+- Because: `∵`
+- Contradiction: `⊥`
+- Tautology: `⊤`
+
+---
+
+### **Calculus & Analysis**
+- Derivative: `d/dx`, `f'(x)`
+- Partial derivative: `∂/∂x`
+- Gradient: `∇f`
+- Integral: `∫`
+- Double integral: `∬`
+- Triple integral: `∭`
+- Line integral: `∮`
+- Limit: `lim`
+- Infinity: `∞`
+- Differential element: `dx`
+- Del operator (Nabla): `∇`
+
+---
+
+### **Geometry**
+- Angle: `∠`
+- Right angle: `90°`
+- Parallel: `‖`
+- Perpendicular: `⊥`
+- Triangle: `△`
+- Congruent: `≅`
+- Similar: `~`
+- Circle: `◯`
+- Arc: `⌒`
+
+---
+
+### **Trigonometry**
+- Sine: `sin`
+- Cosine: `cos`
+- Tangent: `tan`
+- Cosecant: `csc`
+- Secant: `sec`
+- Cotangent: `cot`
+- Inverse trigonometric functions: `sin⁻¹`, `cos⁻¹`, `tan⁻¹`
+- Degrees: `°`
+- Radians: `rad`
+
+---
+
+### **Probability & Statistics**
+- Probability: `P(A)`
+- Mean (average): `μ`
+- Median: `M`
+- Standard deviation: `σ`
+- Variance: `σ²`
+- Union (or): `∪`
+- Intersection (and): `∩`
+- Complement: `A'`
+- Expected value: `E(X)`
+- Covariance: `Cov(X, Y)`
+- Correlation coefficient: `ρ`
+
+---
+
+### **Vectors & Linear Algebra**
+- Vector: `v⃗`, `|v|`
+- Dot product: `a · b`
+- Cross product: `a × b`
+- Magnitude: `||v||`
+- Transpose: `Aᵀ`
+- Determinant: `det(A)`
+- Matrix: `[aᵢⱼ]`
+- Eigenvalue: `λ`
+- Eigenvector: `v⃗`
+
+---
+
+### **Advanced Topics**
+- Kronecker delta: `δᵢⱼ`
+- Dirac delta: `δ(x)`
+- Tensor: `Tᵢⱼ`
+- Fourier transform: `ℱ{f(x)}`
+- Laplace transform: `ℒ{f(t)}`
+- Partial differential equation: `∂²u/∂x²`
+
+---
+
+### **Greek Letters (Frequently Used in Math)**
+- `α` (Alpha), `β` (Beta), `γ` (Gamma), `δ` (Delta), `ε` (Epsilon), `ζ` (Zeta), `η` (Eta), `θ` (Theta), `ι` (Iota), `κ` (Kappa), `λ` (Lambda), `μ` (Mu), `ν` (Nu), `ξ` (Xi), `π` (Pi), `ρ` (Rho), `σ` (Sigma), `τ` (Tau), `υ` (Upsilon), `φ` (Phi), `χ` (Chi), `ψ` (Psi), `ω` (Omega)
+
+---
+
+This should cover almost all standard mathematical symbols across various fields. Let me know if you'd like specific additions or more explanations for any of these!

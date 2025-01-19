@@ -1,0 +1,193 @@
+Basic Operations
+
++ Addition
+
+- Subtraction
+
+× Multiplication
+
+÷ Division
+
+= Equals
+
+≠ Not equal to
+
+≈ Approximately equal to
+
+< Less than
+
+> Greater than
+
+≤ Less than or equal to
+
+≥ Greater than or equal to
+
+
+Arithmetic & Number Theory
+
+√ Square root
+
+∛ Cube root
+
+n! Factorial
+
+% Percent
+
+|x| Absolute value
+
+π Pi
+
+e Euler's number
+
+
+Algebra
+
+x², x³, xⁿ Exponentiation
+
+∑ Summation
+
+∏ Product notation
+
+∛ Cube root
+
+∓ Minus or plus
+
+± Plus or minus
+
+
+Set Theory
+
+∈ Element of
+
+∉ Not an element of
+
+∪ Union
+
+∩ Intersection
+
+⊆ Subset
+
+⊂ Proper subset
+
+⊇ Superset
+
+⊃ Proper superset
+
+∅ Empty set
+
+{ } Set brackets
+
+
+Calculus & Analysis
+
+d/dx Derivative
+
+∫ Integral
+
+∬ Double integral
+
+∇ Nabla (del operator)
+
+lim Limit
+
+∞ Infinity
+
+dx Differential element
+
+
+Logic
+
+∀ For all
+
+∃ There exists
+
+∴ Therefore
+
+∧ Logical AND
+
+∨ Logical OR
+
+¬ Negation
+
+⇒ Implies
+
+⇔ If and only if (iff)
+
+
+Geometry & Trigonometry
+
+∠ Angle
+
+⊥ Perpendicular
+
+‖ Parallel
+
+△ Triangle
+
+π Pi (also in geometry for circle properties)
+
+sin, cos, tan Trigonometric functions
+
+θ Theta (common for angles)
+
+
+Probability & Statistics
+
+P(A) Probability of event A
+
+μ Mean
+
+σ Standard deviation
+
+Σ Sum of
+
+∑ Summation
+
+∪ Union (in probability, can denote "or")
+
+∩ Intersection (can denote "and")
+
+Superscript: ⁻¹⁰, ⁻⁹, ⁻⁸, ⁻⁷, ⁻⁶, ⁻⁵, ⁻⁴, ⁻³, ⁻², ⁻¹, ⁰, ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ¹⁰
+
+Subscript: ₋₁₀, ₋₉, ₋₈, ₋₇, ₋₆, ₋₅, ₋₄, ₋₃, ₋₂, ₋₁, ₀, ₁, ₂, ₃, ₄, ₅, ₆, ₇, ₈, ₉, ₁₀
+
+Maths Symbols: α (Alpha)
+β (Beta)
+γ (Gamma)
+δ (Delta)
+ε (Epsilon)
+ζ (Zeta)
+η (Eta)
+θ (Theta)
+ι (Iota)
+κ (Kappa)
+λ (Lambda)
+μ (Mu)
+ν (Nu)
+ξ (Xi)
+ο (Omicron)
+π (Pi)
+ρ (Rho)
+σ (Sigma)
+τ (Tau)
+υ (Upsilon)
+φ (Phi)
+χ (Chi)
+ψ (Psi)
+ω (Omega)
+
+Math Symbols 2: "+" - Addition symbol.
+"-" - Subtraction symbol.
+"×" - Multiplication symbol.
+"÷" - Division symbol.
+"=" - Equality symbol.
+"<" - Less than symbol.
+">" - Greater than symbol.
+"≤" - Less than or equal to symbol.
+"≥" - Greater than or equal to symbol.
+"√" - Square root symbol.
+"π" - Pi symbol (representing the mathematical constant).
+"%" - Percentage symbol.
+"!" - Factorial symbol.
+"^" - Exponentiation symbol (e.g., "x^2" means "x squared").
+"∑" - Summation symbol (used to represent the sum of a series).

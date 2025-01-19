@@ -1,0 +1,102 @@
+Here’s a comprehensive list of geometrical symbols, grouped by their meaning or usage:
+
+---
+
+### **Basic Geometric Shapes**
+- Line: `↔` or `AB`
+- Ray: `→` or `AB`
+- Line segment: `¯` or `AB`
+- Triangle: `△`
+- Square: `□`
+- Rectangle: `▭`
+- Circle: `◯`
+- Ellipse: `⋯`
+- Polygon (general): `n-gon`
+
+---
+
+### **Angles and Measurements**
+- Angle: `∠`
+- Right angle: `∟`
+- Acute angle: `< 90°`
+- Obtuse angle: `> 90°`
+- Degrees: `°`
+- Radians: `rad`
+- Minutes: `'`
+- Seconds: `"`
+- Arc: `⌒` or `∩`
+- Central angle: `∠ABC`
+
+---
+
+### **Relationships Between Shapes**
+- Parallel: `‖`
+- Perpendicular: `⊥`
+- Congruent: `≅`
+- Similar: `~`
+- Equivalent: `≡`
+- Proportional to: `∝`
+- Adjacent: No specific symbol (denoted by verbal description or notation)
+- Complementary: `∠A + ∠B = 90°`
+- Supplementary: `∠A + ∠B = 180°`
+
+---
+
+### **Properties of Circles**
+- Circumference: `C = 2πr`
+- Area: `A = πr²`
+- Radius: `r`
+- Diameter: `d`
+- Chord: `¯AB`
+- Tangent: `↔`
+- Secant: `↔`
+- Arc length: `s`
+
+---
+
+### **3D Geometry Symbols**
+- Cube: `□³` or `3D box representation`
+- Sphere: `◯³`
+- Cylinder: `[ ]³` or `(solid with two circles and curved surface)`
+- Cone: `(◯ ↓  apex at top)`
+- Volume: `V`
+- Surface area: `SA`
+
+---
+
+### **Coordinate Geometry**
+- Point: `P(x, y)`
+- Distance formula: `√((x₂ − x₁)² + (y₂ − y₁)²)`
+- Midpoint: `M = ((x₁ + x₂)/2, (y₁ + y₂)/2)`
+- Slope: `m = (y₂ − y₁) / (x₂ − x₁)`
+
+---
+
+### **Transformations**
+- Reflection: `R`
+- Rotation: `↻` or `↺`
+- Translation: `(x + a, y + b)`
+- Dilation: `(kx, ky)`
+- Symmetry: `∼` (depending on context)
+
+---
+
+### **Common Constants and Ratios in Geometry**
+- Pi: `π`
+- Golden ratio: `φ ≈ 1.618`
+- Euler’s number (used in spiral geometry): `e ≈ 2.718`
+
+---
+
+### **Common Measurements and Terms**
+- Length: `l`
+- Width: `w`
+- Height: `h`
+- Base: `b`
+- Perimeter: `P`
+- Area: `A`
+- Volume: `V`
+
+---
+
+This list includes essential symbols and concepts related to geometry. Let me know if there’s a specific area you’d like further explored or if any additional symbols need inclusion!

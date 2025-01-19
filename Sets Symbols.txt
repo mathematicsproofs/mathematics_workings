@@ -1,0 +1,214 @@
+Here’s a **comprehensive list of mathematical symbols**, categorized by their associated fields, including **basic operations**, **set theory**, **geometry**, **calculus**, **algebra**, **logic**, **probability and statistics**, and more:
+
+---
+
+### **Basic Operations**
+- Addition: `+`
+- Subtraction: `-`
+- Multiplication: `×`, `·`, `*`
+- Division: `÷`, `/`
+- Equals: `=`
+- Not equal to: `≠`
+- Approximately equal to: `≈`
+- Proportional to: `∝`
+- Less than: `<`
+- Greater than: `>`
+- Less than or equal to: `≤`
+- Greater than or equal to: `≥`
+- Increment: `∆`
+- Decrement: `∇`
+
+---
+
+### **Arithmetic & Number Theory**
+- Modulo: `mod`
+- Divides: `|`
+- Does not divide: `∤`
+- Integer part (floor): `⌊x⌋`
+- Fractional part (ceiling): `⌈x⌉`
+- GCD: `gcd(a, b)`
+- LCM: `lcm(a, b)`
+- Summation: `∑`
+- Product: `∏`
+- Factorial: `n!`
+- Absolute value: `|x|`
+- Percent: `%`
+- Pi: `π`
+- Euler's number: `e`
+- Infinity: `∞`
+
+---
+
+### **Set Theory**
+- Set brackets: `{ }`
+- Element of: `∈`
+- Not an element of: `∉`
+- Subset: `⊆`
+- Proper subset: `⊂`
+- Superset: `⊇`
+- Proper superset: `⊃`
+- Empty set: `∅`
+- Union: `∪`
+- Intersection: `∩`
+- Complement: `A'` or `¯A`
+- Difference: `A \ B`
+- Cartesian product: `A × B`
+- Power set: `𝒫(A)`
+- Cardinality: `|A|`
+- Belongs to: `∋`
+- Does not belong to: `∌`
+
+---
+
+### **Logic**
+- For all: `∀`
+- There exists: `∃`
+- Does not exist: `∄`
+- Negation: `¬`
+- Logical AND: `∧`
+- Logical OR: `∨`
+- Implies: `⇒`
+- If and only if (iff): `⇔`
+- Therefore: `∴`
+- Because: `∵`
+- Contradiction: `⊥`
+- Tautology: `⊤`
+- Exclusive OR (XOR): `⊕`
+
+---
+
+### **Geometry**
+- Point: `.`
+- Line: `↔` or `AB`
+- Ray: `→` or `AB`
+- Line segment: `¯` or `AB`
+- Triangle: `△`
+- Square: `□`
+- Rectangle: `▭`
+- Circle: `◯`
+- Ellipse: `⋯`
+- Polygon: `n-gon`
+- Angle: `∠`
+- Right angle: `∟`
+- Parallel: `‖`
+- Perpendicular: `⊥`
+- Arc: `⌒`
+- Tangent: `↔`
+- Congruent: `≅`
+- Similar: `~`
+- Proportional to: `∝`
+
+---
+
+### **Algebra**
+- Variable: `x`, `y`
+- Coefficient: `a`
+- Exponentiation: `xⁿ`, `x²`, `x³`
+- Root: `√`, `∛`, `ⁿ√`
+- Summation: `∑`
+- Product: `∏`
+- Absolute value: `|x|`
+- Factorial: `n!`
+- Logarithm: `log(x)`, `ln(x)`
+- Plus or minus: `±`
+- Minus or plus: `∓`
+
+---
+
+### **Calculus & Analysis**
+- Derivative: `d/dx`, `f'(x)`
+- Partial derivative: `∂/∂x`
+- Gradient: `∇f`
+- Integral: `∫`
+- Double integral: `∬`
+- Triple integral: `∭`
+- Line integral: `∮`
+- Limit: `lim`
+- Differential element: `dx`
+- Nabla (del operator): `∇`
+- Laplacian: `∇²`
+- Series: `Σ`
+- Divergence: `div`
+- Curl: `curl`
+
+---
+
+### **Probability & Statistics**
+- Probability: `P(A)`
+- Mean: `μ`
+- Median: `M`
+- Standard deviation: `σ`
+- Variance: `σ²`
+- Covariance: `Cov(X, Y)`
+- Correlation coefficient: `ρ`
+- Union (or): `∪`
+- Intersection (and): `∩`
+- Complement: `A'`
+- Expected value: `E(X)`
+- Random variable: `X`
+
+---
+
+### **Vectors & Linear Algebra**
+- Vector: `v⃗`, `|v|`
+- Dot product: `a · b`
+- Cross product: `a × b`
+- Magnitude: `||v||`
+- Transpose: `Aᵀ`
+- Determinant: `det(A)`
+- Eigenvalue: `λ`
+- Eigenvector: `v⃗`
+- Matrix: `[aᵢⱼ]`
+
+---
+
+### **Greek Letters (Common in Mathematics)**
+- Alpha: `α`
+- Beta: `β`
+- Gamma: `γ`
+- Delta: `δ`
+- Epsilon: `ε`
+- Zeta: `ζ`
+- Eta: `η`
+- Theta: `θ`
+- Iota: `ι`
+- Kappa: `κ`
+- Lambda: `λ`
+- Mu: `μ`
+- Nu: `ν`
+- Xi: `ξ`
+- Omicron: `ο`
+- Pi: `π`
+- Rho: `ρ`
+- Sigma: `σ`
+- Tau: `τ`
+- Upsilon: `υ`
+- Phi: `φ`
+- Chi: `χ`
+- Psi: `ψ`
+- Omega: `ω`
+
+---
+
+### **Advanced Mathematical Notations**
+- Kronecker delta: `δᵢⱼ`
+- Dirac delta: `δ(x)`
+- Tensor notation: `Tᵢⱼ`
+- Fourier transform: `ℱ{f(x)}`
+- Laplace transform: `ℒ{f(t)}`
+- Partial differential equations: `∂²u/∂x²`
+
+---
+
+### **Superscripts**
+- Powers: `⁰, ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹`
+- Negative powers: `⁻⁰, ⁻¹, ⁻², ⁻³`
+
+---
+
+### **Subscripts**
+- Indices: `₀, ₁, ₂, ₃, ₄, ₅, ₆, ₇, ₈, ₉`
+
+---
+
+This collection should cover virtually **every mathematical symbol** you might encounter across disciplines. Let me know if there's a specific set or field you'd like me to expand upon!

@@ -1,0 +1,155 @@
+Here’s your cleaned-up list without the lined spaces:
+
+---
+
+### **Basic Operations**
+- Addition: `+`
+- Subtraction: `-`
+- Multiplication: `×`
+- Division: `÷`
+- Equals: `=`
+- Not equal to: `≠`
+- Approximately equal to: `≈`
+- Less than: `<`
+- Greater than: `>`
+- Less than or equal to: `≤`
+- Greater than or equal to: `≥`
+
+---
+
+### **Arithmetic & Number Theory**
+- Square root: `√`
+- Cube root: `∛`
+- Factorial: `n!`
+- Percent: `%`
+- Absolute value: `|x|`
+- Pi: `π`
+- Euler's number: `e`
+
+---
+
+### **Algebra**
+- Exponentiation: `x², x³, xⁿ`
+- Summation: `∑`
+- Product notation: `∏`
+- Cube root: `∛`
+- Minus or plus: `∓`
+- Plus or minus: `±`
+
+---
+
+### **Set Theory**
+- Element of: `∈`
+- Not an element of: `∉`
+- Union: `∪`
+- Intersection: `∩`
+- Subset: `⊆`
+- Proper subset: `⊂`
+- Superset: `⊇`
+- Proper superset: `⊃`
+- Empty set: `∅`
+- Set brackets: `{ }`
+
+---
+
+### **Calculus & Analysis**
+- Derivative: `d/dx`
+- Integral: `∫`
+- Double integral: `∬`
+- Nabla (del operator): `∇`
+- Limit: `lim`
+- Infinity: `∞`
+- Differential element: `dx`
+
+---
+
+### **Logic**
+- For all: `∀`
+- There exists: `∃`
+- Therefore: `∴`
+- Logical AND: `∧`
+- Logical OR: `∨`
+- Negation: `¬`
+- Implies: `⇒`
+- If and only if (iff): `⇔`
+
+---
+
+### **Geometry & Trigonometry**
+- Angle: `∠`
+- Perpendicular: `⊥`
+- Parallel: `‖`
+- Triangle: `△`
+- Pi: `π`
+- Trigonometric functions: `sin, cos, tan`
+- Theta: `θ`
+
+---
+
+### **Probability & Statistics**
+- Probability of event A: `P(A)`
+- Mean: `μ`
+- Standard deviation: `σ`
+- Sum of: `Σ`
+- Summation: `∑`
+- Union (or): `∪`
+- Intersection (and): `∩`
+
+---
+
+### **Superscripts**
+- `⁻¹⁰, ⁻⁹, ⁻⁸, ⁻⁷, ⁻⁶, ⁻⁵, ⁻⁴, ⁻³, ⁻², ⁻¹, ⁰, ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ¹⁰`
+
+---
+
+### **Subscripts**
+- `₋₁₀, ₋₉, ₋₈, ₋₇, ₋₆, ₋₅, ₋₄, ₋₃, ₋₂, ₋₁, ₀, ₁, ₂, ₃, ₄, ₅, ₆, ₇, ₈, ₉, ₁₀`
+
+---
+
+### **Math Symbols**
+- `α (Alpha)`
+- `β (Beta)`
+- `γ (Gamma)`
+- `δ (Delta)`
+- `ε (Epsilon)`
+- `ζ (Zeta)`
+- `η (Eta)`
+- `θ (Theta)`
+- `ι (Iota)`
+- `κ (Kappa)`
+- `λ (Lambda)`
+- `μ (Mu)`
+- `ν (Nu)`
+- `ξ (Xi)`
+- `ο (Omicron)`
+- `π (Pi)`
+- `ρ (Rho)`
+- `σ (Sigma)`
+- `τ (Tau)`
+- `υ (Upsilon)`
+- `φ (Phi)`
+- `χ (Chi)`
+- `ψ (Psi)`
+- `ω (Omega)`
+
+---
+
+### **Additional Math Symbols**
+- Addition: `+`
+- Subtraction: `-`
+- Multiplication: `×`
+- Division: `÷`
+- Equality: `=`
+- Less than: `<`
+- Greater than: `>`
+- Less than or equal to: `≤`
+- Greater than or equal to: `≥`
+- Square root: `√`
+- Pi: `π`
+- Percentage: `%`
+- Factorial: `!`
+- Exponentiation: `^`
+- Summation: `∑`
+
+---

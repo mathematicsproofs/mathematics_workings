@@ -1,0 +1,183 @@
+Here is a comprehensive list of **symbols and notations related to popular sets** in **set theory**, along with their meanings and typical usage:
+
+---
+
+### **Standard Sets of Numbers**
+1. **Natural Numbers**:  
+   - Symbol: `ℕ`
+   - Definition: `{0, 1, 2, 3, ...}` (sometimes excludes `0`, depending on context).
+   - Notation Example: `n ∈ ℕ` means `n` is a natural number.
+
+2. **Integers**:  
+   - Symbol: `ℤ`
+   - Definition: `{..., -2, -1, 0, 1, 2, ...}` (whole numbers including negatives).
+   - Notation Example: `z ∈ ℤ` means `z` is an integer.
+
+3. **Rational Numbers**:  
+   - Symbol: `ℚ`
+   - Definition: `{p/q | p ∈ ℤ, q ∈ ℤ, q ≠ 0}` (fractions of integers).
+   - Notation Example: `q ∈ ℚ` means `q` is a rational number.
+
+4. **Real Numbers**:  
+   - Symbol: `ℝ`
+   - Definition: All numbers on the number line (including rational and irrational numbers).
+   - Notation Example: `x ∈ ℝ` means `x` is a real number.
+
+5. **Complex Numbers**:  
+   - Symbol: `ℂ`
+   - Definition: `{a + bi | a, b ∈ ℝ, i² = -1}` (numbers with real and imaginary parts).
+   - Notation Example: `z ∈ ℂ` means `z` is a complex number.
+
+6. **Irrational Numbers**:  
+   - Symbol: No universal single-letter symbol; represented as `ℝ \ ℚ`.
+   - Definition: Numbers that cannot be expressed as fractions (e.g., `√2, π`).
+
+---
+
+### **Finite and Infinite Sets**
+1. **Empty Set**:
+   - Symbol: `∅` or `{ }`
+   - Definition: A set with no elements.
+   - Notation Example: `A = ∅`.
+
+2. **Finite Sets**:
+   - Notation: `{a₁, a₂, ..., aₙ}`
+   - Definition: A set with a finite number of elements.
+   - Example: `{1, 2, 3}`.
+
+3. **Infinite Sets**:
+   - Notation: `A` or `{x | condition(x)}`
+   - Definition: A set with an infinite number of elements.
+   - Example: `{x ∈ ℕ | x is even}`.
+
+---
+
+### **Power Sets**
+- Symbol: `𝒫(A)`
+- Definition: The set of all subsets of a set `A`.
+- Notation Example: `𝒫({a, b}) = {∅, {a}, {b}, {a, b}}`.
+
+---
+
+### **Interval Notation for Subsets of ℝ**
+1. **Open Interval**:
+   - Symbol: `(a, b)`
+   - Definition: `{x ∈ ℝ | a < x < b}`.
+
+2. **Closed Interval**:
+   - Symbol: `[a, b]`
+   - Definition: `{x ∈ ℝ | a ≤ x ≤ b}`.
+
+3. **Half-Open Intervals**:
+   - Symbols: `[a, b)` or `(a, b]`
+   - Definitions:
+     - `[a, b)`: `{x ∈ ℝ | a ≤ x < b}`
+     - `(a, b]`: `{x ∈ ℝ | a < x ≤ b}`.
+
+4. **Infinite Intervals**:
+   - Symbols: `(a, ∞)`, `[a, ∞)`, `(-∞, b)`, `(-∞, b]`.
+
+---
+
+### **Relations Between Sets**
+1. **Subset**:
+   - Symbol: `A ⊆ B`
+   - Definition: Every element of `A` is in `B`.
+
+2. **Proper Subset**:
+   - Symbol: `A ⊂ B`
+   - Definition: `A` is a subset of `B`, but `A ≠ B`.
+
+3. **Superset**:
+   - Symbol: `A ⊇ B`
+   - Definition: Every element of `B` is in `A`.
+
+4. **Proper Superset**:
+   - Symbol: `A ⊃ B`
+   - Definition: `A` is a superset of `B`, but `A ≠ B`.
+
+5. **Disjoint Sets**:
+   - Notation: `A ∩ B = ∅`
+   - Definition: Sets with no common elements.
+
+6. **Equality of Sets**:
+   - Symbol: `A = B`
+   - Definition: `A` and `B` have exactly the same elements.
+
+7. **Membership**:
+   - Symbol: `a ∈ A`
+   - Definition: `a` is an element of the set `A`.
+
+8. **Non-Membership**:
+   - Symbol: `a ∉ A`
+   - Definition: `a` is not an element of the set `A`.
+
+---
+
+### **Operations on Sets**
+1. **Union**:
+   - Symbol: `A ∪ B`
+   - Definition: `{x | x ∈ A or x ∈ B}`.
+
+2. **Intersection**:
+   - Symbol: `A ∩ B`
+   - Definition: `{x | x ∈ A and x ∈ B}`.
+
+3. **Difference**:
+   - Symbol: `A \ B`
+   - Definition: `{x | x ∈ A and x ∉ B}`.
+
+4. **Complement**:
+   - Symbol: `A'` or `¯A`
+   - Definition: All elements not in `A`.
+
+5. **Symmetric Difference**:
+   - Symbol: `A Δ B`
+   - Definition: `{x | (x ∈ A and x ∉ B) or (x ∈ B and x ∉ A)}`.
+
+---
+
+### **Cardinality**
+- Symbol: `|A|`
+- Definition: The number of elements in a set `A`.
+- Notation Example: `|A| = n`.
+
+---
+
+### **Special Sets**
+1. **Universal Set**:
+   - Symbol: `U`
+   - Definition: The set containing all possible elements in a context.
+
+2. **Singleton Set**:
+   - Symbol: `{a}`
+   - Definition: A set with exactly one element.
+
+3. **Ordered Pair**:
+   - Symbol: `(a, b)`
+   - Definition: A pair of elements where order matters.
+
+4. **Cartesian Product**:
+   - Symbol: `A × B`
+   - Definition: `{(a, b) | a ∈ A, b ∈ B}`.
+
+---
+
+### **Indexed Sets**
+- Notation: `{Aᵢ | i ∈ I}`
+- Definition: A family of sets indexed by `i`.
+
+---
+
+### **Infinite Sets**
+1. **Countable Infinite Set**:
+   - Example: `ℕ` (natural numbers).
+   - Definition: Can be put into one-to-one correspondence with `ℕ`.
+
+2. **Uncountable Infinite Set**:
+   - Example: `ℝ` (real numbers).
+   - Definition: Cannot be put into one-to-one correspondence with `ℕ`.
+
+---
+
+This covers the **popular sets, symbols, and notations in set theory**. Let me know if you'd like further examples or clarifications!
